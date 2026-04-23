@@ -1,1 +1,31 @@
-# johnmasseriamdc.github.io
+# John P. Masseria
+**Adjunct Professor, Computer Science**  
+*Miami Dade College - West Campus*
+
+---
+
+## 👨‍🏫 About Me
+I am a dedicated Computer Science educator at Miami Dade College. My academic journey began at the **University of Miami**, where I studied Electrical and Computer Engineering. I further specialized by completing both my Bachelor’s in **Computer Information Systems** and my Master’s in **Information Security** at Nova Southeastern University.
+
+## 💻 Technical Expertise
+I am passionate about the "how" and "why" behind computing, from high-level application development down to assembly and bare-metal systems.
+
+### Programming Languages
+*   **Application:** C, C++, C#, Java, Python, PHP, Scala, Javascript
+*   **Legacy/Niche:** COBOL, Fortran, Perl, and I am currently exploring **Forth**
+*   **Low-Level/Assembly:** 8080, Z80, x86, IBM 360 BAL, and UNISYS/UNIVAC 1100
+*   **Scripting:** Bash (Unix), PowerShell
+
+### Systems & Interests
+In my spare time, I enjoy experimenting with:
+*   **Microcontrollers:** ESP32 and Raspberry Pi Pico-based projects using GPIO, WiFi, and Bluetooth.
+*   **Home Automation:** Running Home Assistant, Mosquitto MQTT, Ejabberd XMPP, and Docker on Raspberry Pi clusters.
+
+---
+
+## 🎓 Student Resources
+*   **Office Location:** West Campus | Room TBA
+*   **Contact:** [jmasseri@mdc.edu](mailto:jmasseri@mdc.edu)
+*   **MDC Faculty Site:** [Official Profile](https://faculty.mdc.edu/jmasseri/)
+
+> "The computer was born to solve problems that did not exist before." — *Bill Gates*
