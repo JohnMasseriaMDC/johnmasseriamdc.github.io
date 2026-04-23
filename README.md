@@ -10,7 +10,7 @@
       </p>
     </td>
     <td width="25%" align="right">
-      <img src="profile.jpg" width="150" style="border-radius: 10px; border: 1px solid #ccc;">
+      <img src="profile.png" width="150" style="border-radius: 10px; border: 1px solid #ccc;">
     </td>
   </tr>
 </table>
