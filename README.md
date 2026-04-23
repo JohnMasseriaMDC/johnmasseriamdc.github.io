@@ -1,8 +1,21 @@
-# John P. Masseria
-**Adjunct Professor, Computer Science**  
-*Miami Dade College - West Campus*
+<table border="0">
+  <tr>
+    <td>
+      <h1>John P. Masseria</h1>
+      <p><b>Adjunct Professor, Computer Science</b><br>
+      <i>Miami Dade College - West Campus</i></p>
+      <p>
+        <a href="mailto:jmasseri@mdc.edu">Email</a> | 
+        <a href="https://mdc.edu">MDC Faculty Site</a>
+      </p>
+    </td>
+    <td width="25%" align="right">
+      <img src="profile.jpg" width="150" style="border-radius: 10px; border: 1px solid #ccc;">
+    </td>
+  </tr>
+</table>
 
----
+------
 
 ## 👨‍🏫 About Me
 I am a dedicated Computer Science educator at Miami Dade College. My academic journey began at the **University of Miami**, where I studied Electrical and Computer Engineering. I further specialized by completing both my Bachelor’s in **Computer Information Systems** and my Master’s in **Information Security** at Nova Southeastern University.
