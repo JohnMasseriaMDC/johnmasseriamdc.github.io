@@ -8,6 +8,11 @@
         <a href="mailto:jmasseri@mdc.edu">Email</a> | 
         <a href="https://mdc.edu">MDC Faculty Site</a>
       </p>
+      <p>
+        <a href="https://badges.parchment.com/public/assertions/HCcScKMJSnK1zMV4pGNf6Q">
+          <img src="https://badges.parchment.com/public/assertions/HCcScKMJSnK1zMV4pGNf6Q/image" width="120" height="120" alt="ACUE Badge">
+        </a>
+      </p>
     </td>
     <td width="25%" align="right">
       <img src="profile.jpg" width="150" style="border-radius: 10px; border: 1px solid #ccc;">
