@@ -1,24 +1,26 @@
-<table border="0">
-  <tr>
-    <td>
-      <h1>John P. Masseria</h1>
-      <p><b>Adjunct Professor, Computer Science</b><br>
-      <i>Miami Dade College - West Campus</i></p>
-      <p>
-        <a href="mailto:jmasseri@mdc.edu">Email</a> | 
-        <a href="https://mdc.edu">MDC Faculty Site</a>
-      </p>
-      <p>
-        <a href="https://badges.parchment.com/public/assertions/HCcScKMJSnK1zMV4pGNf6Q">
-          <img src="https://badges.parchment.com/public/assertions/HCcScKMJSnK1zMV4pGNf6Q/image" width="120" height="120" alt="ACUE Badge">
-        </a>
-      </p>
-    </td>
-    <td width="25%" align="right">
-      <img src="profile.jpg" width="150" style="border-radius: 10px; border: 1px solid #ccc;">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h1>John P. Masseria</h1>
+        <p><b>Adjunct Professor, Computer Science</b><br>
+        <i>Miami Dade College - West Campus</i></p>
+        <p>
+          <a href="mailto:jmasseri@mdc.edu">Email</a> | 
+          <a href="https://mdc.edu">MDC Faculty Site</a>
+        </p>
+        <p>
+          <a href="https://badges.parchment.com/public/assertions/HCcScKMJSnK1zMV4pGNf6Q">
+            <img src="https://badges.parchment.com/public/assertions/HCcScKMJSnK1zMV4pGNf6Q/image" width="120" height="120" alt="ACUE Badge">
+          </a>
+        </p>
+      </td>
+      <td width="25%" align="right">
+        <img src="profile.jpg" width="150" style="border-radius: 10px; border: 1px solid #ccc;">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ------
 
