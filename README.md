@@ -42,7 +42,7 @@ In my spare time, I enjoy experimenting with:
 ---
 
 ## 🎓 Student Resources
-*   **Office Location:** West Campus | Room TBA
+*   **Office Location:** West Campus \| Room TBA
 *   **Contact:** [jmasseri@mdc.edu](mailto:jmasseri@mdc.edu)
 *   **MDC Faculty Site:** [Official Profile](https://faculty.mdc.edu/jmasseri/)
 
