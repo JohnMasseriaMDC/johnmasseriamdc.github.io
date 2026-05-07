@@ -9,11 +9,35 @@
           <a href="mailto:jmasseri@mdc.edu">Email</a> | 
           <a href="https://mdc.edu">MDC Faculty Site</a>
         </p>
-        <p>
-          <a href="https://badges.parchment.com/public/assertions/HCcScKMJSnK1zMV4pGNf6Q">
-            <img src="https://badges.parchment.com/public/assertions/HCcScKMJSnK1zMV4pGNf6Q/image" width="120" height="120" alt="ACUE Badge">
-          </a>
-        </p>
+        <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+          <tr>
+            <td style="border: none; padding-right: 15px; vertical-align: middle;">
+              <a href="https://badges.parchment.com/public/assertions/HCcScKMJSnK1zMV4pGNf6Q">
+                <img src="https://badges.parchment.com/public/assertions/HCcScKMJSnK1zMV4pGNf6Q/image" width="120" height="120" alt="ACUE Badge" style="display: inline-block !important;">
+              </a>
+            </td>
+            <td style="border: none; vertical-align: middle;">
+              <a href="https://badges.parchment.com/public/assertions/MCfIrTsVQCi2Sza252Apeg">
+                <img src="https://api.badgr.io/public/assertions/MCfIrTsVQCi2Sza252Apeg/image" width="120" height="120" style="display: inline-block !important;">
+              </a>
+            </td>
+            <td style="border: none; padding-right: 15px; vertical-align: middle;">
+              <a href="https://badges.parchment.com/public/assertions/OpJRjK7iQK690KeEZkfUDQ">
+                <img width="120px" height="120px" src="https://badges.parchment.com/public/assertions/OpJRjK7iQK690KeEZkfUDQ/image">
+              </a>
+            </td>
+            <td style="border: none; padding-right: 15px; vertical-align: middle;">
+              <a href="https://badges.parchment.com/public/assertions/p9jJhOHPQtyTapuHYbyWAQ">
+                <img width="120px" height="120px" src="https://badges.parchment.com/public/assertions/p9jJhOHPQtyTapuHYbyWAQ/image">
+              </a>
+            </td>
+            <td style="border: none; padding-right: 15px; vertical-align: middle;">
+              <a href="https://badges.parchment.com/public/assertions/1hyYmjUwRfigaisdwdoQYQ">
+                <img width="120px" height="120px" src="https://badges.parchment.com/public/assertions/1hyYmjUwRfigaisdwdoQYQ/image">
+              </a>
+            </td>
+          </tr>
+        </table>
       </td>
       <td width="25%" align="right">
         <img src="profile.jpg" width="150" style="border-radius: 10px; border: 1px solid #ccc;">
