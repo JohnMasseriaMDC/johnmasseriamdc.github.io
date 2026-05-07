@@ -1,4 +1,4 @@
-<div align="center">
+<div style="max-width: 1200px; width: 95%; margin: 0 auto; text-align: center;">
   <table>
     <tr>
       <td>
