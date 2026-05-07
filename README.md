@@ -1,4 +1,4 @@
-<div style="max-width: 1200px; width: 95%; margin: 0 auto; text-align: center;">
+<div style="width: 95vw; max-width: 1200; margin: 0 auto; text-align: left;">
   <table>
     <tr>
       <td>
@@ -39,7 +39,7 @@
           </tr>
         </table>
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <img src="profile.jpg" width="150">
       </td>
     </tr>
